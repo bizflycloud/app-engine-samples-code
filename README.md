@@ -14,5 +14,11 @@ Types of application Bizfly App Engine supported:
 * ...
 
 
-## Document: https://docs.bizflycloud.vn/app-engine/
+## Document: https://docs.bizflycloud.vn/app_engine/
 ## Support: https://manage.bizflycloud.vn/ticket/
+
+
+## References
+https://github.com/paketo-buildpacks/samples
+
+https://github.com/GoogleCloudPlatform/buildpack-samples
